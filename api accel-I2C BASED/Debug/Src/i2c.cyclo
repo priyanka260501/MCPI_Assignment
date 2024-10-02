@@ -1,0 +1,9 @@
+../Src/i2c.c:12:6:I2C_Init	1
+../Src/i2c.c:36:6:I2C_Start	2
+../Src/i2c.c:43:6:I2C_Stop	2
+../Src/i2c.c:50:6:I2C_repeatstart	1
+../Src/i2c.c:55:6:I2C_SendSlaveAddr	2
+../Src/i2c.c:63:7:I2C_SendData	3
+../Src/i2c.c:70:10:I2C_recvdata	2
+../Src/i2c.c:78:10:I2C_recvdatanack	2
+../Src/i2c.c:87:5:I2C_IsDeviceReady	2
