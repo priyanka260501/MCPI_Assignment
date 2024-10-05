@@ -1,0 +1,7 @@
+../Src/rtc.c:6:10:Bcd2Bin	24	static
+../Src/rtc.c:14:10:Bin2Bcd	24	static
+../Src/rtc.c:21:6:RTC_Init	16	static
+../Src/rtc.c:54:6:RTC_SetDate	32	static
+../Src/rtc.c:64:6:RTC_SetTime	32	static
+../Src/rtc.c:74:6:RTC_GetDate	32	static
+../Src/rtc.c:86:6:RTC_GetTime	32	static
